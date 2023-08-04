@@ -9,7 +9,7 @@ cd NetworkScanner && pip3 install -r requirements.txt
 ```
 
 ## Usage
-
+> Don't forget to use it as root
 ```
 sudo python3 main.py -r 192.168.1.1/yoursubnetmask (usually /24)
 ```
